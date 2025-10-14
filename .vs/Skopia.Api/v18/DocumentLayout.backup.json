@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doisl\\Downloads\\skopia-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\repositories\\iprojetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:repositories\\iprojetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\repositories\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:repositories\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\skopia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:skopia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|c:\\users\\doisl\\downloads\\skopia-api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{72A37CC3-781B-5112-C210-E02C1F4D9140}|Skopia.Api.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Models\\Projeto.cs",
+              "RelativeToolTip": "Models\\Projeto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:31:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\IProjetoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProjetoRepository.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\IProjetoRepository.cs",
+              "RelativeToolTip": "Repositories\\IProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:31:33.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Skopia.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Skopia.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Skopia.Api\\appsettings.json",
+              "RelativeToolTip": "Skopia.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T21:05:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjetoRepository.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\ProjetoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjetoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:44:21.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T19:49:19.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:59:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\ITarefaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITarefaRepository.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\ITarefaRepository.cs",
+              "RelativeToolTip": "Repositories\\ITarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:44:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjetoService.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Services\\ProjetoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjetoService.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Services\\ProjetoService.cs",
+              "RelativeToolTip": "Services\\ProjetoService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:03:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TarefaRepository.cs",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\Repositories\\TarefaRepository.cs",
+              "RelativeToolTip": "Repositories\\TarefaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:16:07.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\doisl\\Downloads\\skopia-api\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\doisl\\Downloads\\skopia-api\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-14T16:59:15.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
