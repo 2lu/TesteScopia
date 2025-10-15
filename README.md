@@ -3,7 +3,9 @@
 ## Perguntas aos Po's e melhorias (fase 3)
 
  1 .  Colocar Nlog para geracao de log de requisicoes e auditoria em produção
+ 
  2 .  Usar fluentValidator para validação de entrada de dados e resposta com uso de result object
+ 
  3 .  Permitir que Projeto não sejam excluidos quando status for 'Em Andamento' ou 'Concluída'
 
 ## Rodando com Docker (fase 2)
