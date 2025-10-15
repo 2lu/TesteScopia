@@ -5,6 +5,15 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+  <PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Skopia.Api.Teste\**" />
+    <Content Remove="Skopia.Api.Teste\**" />
+    <EmbeddedResource Remove="Skopia.Api.Teste\**" />
+    <None Remove="Skopia.Api.Teste\**" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="MongoDB.Driver" Version="3.5.0" />
