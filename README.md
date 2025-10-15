@@ -1,5 +1,26 @@
 # Sistema de Gerenciamento de Projetos e Tarefas
 
+## TesteScopia
+
+Este projeto é uma API .NET.
+
+## Rodando com Docker
+
+1. Certifique-se de ter o Docker instalado.
+2. No diretório do projeto, construa a imagem:
+
+```sh
+docker build -t skopia-api .
+```
+
+3. Execute o container:
+
+```sh
+docker run -d -p 8080:80 --name skopia-api skopia-api
+```
+
+A API estará disponível em `http://localhost:8080`.
+
 API RESTful desenvolvida em .NET 9 com Minimal API sem autenticação.
 
 ## Tecnologias Utilizadas
